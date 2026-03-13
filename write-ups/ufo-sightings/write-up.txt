@@ -1,0 +1,11 @@
+Challenge: ufo sights
+Category: OSInt
+
+Description
+We are given an image showing a supposed UFO sighting and must determine the exact geographic coordinates where the photo was taken.
+
+Solve:
+First, I used google lens reverse image search to find information about the image provided.
+I found a rddit post asking about the ufo design.
+Someone told him it's a Mattoni eagle ad on the highway.
+Next, I searched on google maps "Mattoni eagle ufo" and I found its exact location and coordinates.
