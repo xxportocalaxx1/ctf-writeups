@@ -15,5 +15,15 @@ to improve my skills.
 - UVT 2026 - #14
 - ROCSC - #54
 
+## Tools
+- Burp Suite
+- IDA Free
+- DBG
+- binwalk
+- Wireshark
+- Python
+- Bash
+- CyberChef
+
 ## Writeups
 Writeups are available in the writeups directory.
